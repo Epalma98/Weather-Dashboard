@@ -34,12 +34,12 @@ Once the webpage is loaded up the user will need to type in a city name into the
 HTML
 CSS
 JavaScript
-DayJs
+Bootstrap
 
 
 ## Websites
-Github Repo: https://github.com/Epalma98/md5-challenge 
-Deployed website: https://epalma98.github.io/md5-challenge/
+Github Repo: 
+Deployed website: 
 
 ## Credit
 Github: Epalma98

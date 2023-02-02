@@ -42,7 +42,7 @@ header h1 {
 
 .col-8 {
     text-align: start;
-    border: solid rgb(0, 0, 0);
+    /* border: solid rgb(0, 0, 0); */
     
 }
 
@@ -57,12 +57,13 @@ header h1 {
 .col-4 {
     font-size: 30px;
     font-weight: bold;
-    border: solid red;
+    /* border: solid red; */
     padding: 10px;
 }
 
 .forecast {
-    border: solid red;
+    /* border: solid red; */
+    
 }
 
 #city-form {
@@ -70,7 +71,7 @@ header h1 {
 }
 
 #submitBtn {
-    border: solid red;
+    /* border: solid red; */
     margin-top: 15px;
 }
 

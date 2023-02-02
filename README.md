@@ -38,7 +38,7 @@ Bootstrap
 
 
 ## Websites
-Github Repo: 
+Github Repo: https://github.com/Epalma98/Weather-Dashboard 
 Deployed website: 
 
 ## Credit
